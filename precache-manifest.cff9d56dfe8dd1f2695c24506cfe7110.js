@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3eb311115b969b8f349e7b53515beee9",
+    "revision": "296299c2ef515a7f0d69a1dffd9c74ea",
     "url": "/medicare-and-more/index.html"
   },
   {
@@ -8,15 +8,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/medicare-and-more/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "b7332cf725dfb3acafe5",
-    "url": "/medicare-and-more/static/css/main.2b6c88d4.chunk.css"
+    "revision": "972213337ed04e3c3cfa",
+    "url": "/medicare-and-more/static/css/main.bf46ca94.chunk.css"
   },
   {
     "revision": "feebe321c5b9fa6a1443",
     "url": "/medicare-and-more/static/js/2.e23b7dad.chunk.js"
   },
   {
-    "revision": "b7332cf725dfb3acafe5",
+    "revision": "972213337ed04e3c3cfa",
     "url": "/medicare-and-more/static/js/main.defe0c28.chunk.js"
   },
   {
