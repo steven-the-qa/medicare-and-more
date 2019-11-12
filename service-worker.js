@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/medicare-and-more/precache-manifest.930cc905a137adf6f1965aacb0080011.js"
+  "/medicare-and-more/precache-manifest.e3617e1270ef768f998815783c384794.js"
 );
 
 self.addEventListener('message', (event) => {
