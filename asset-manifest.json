@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/medicare-and-more/static/css/main.0e0b9a9f.chunk.css",
-    "main.js": "/medicare-and-more/static/js/main.4dbf61fe.chunk.js",
-    "main.js.map": "/medicare-and-more/static/js/main.4dbf61fe.chunk.js.map",
+    "main.js": "/medicare-and-more/static/js/main.65185ae9.chunk.js",
+    "main.js.map": "/medicare-and-more/static/js/main.65185ae9.chunk.js.map",
     "runtime~main.js": "/medicare-and-more/static/js/runtime~main.e99f5618.js",
     "runtime~main.js.map": "/medicare-and-more/static/js/runtime~main.e99f5618.js.map",
     "static/css/2.266e55a5.chunk.css": "/medicare-and-more/static/css/2.266e55a5.chunk.css",
-    "static/js/2.b0386588.chunk.js": "/medicare-and-more/static/js/2.b0386588.chunk.js",
-    "static/js/2.b0386588.chunk.js.map": "/medicare-and-more/static/js/2.b0386588.chunk.js.map",
+    "static/js/2.dbb04b1f.chunk.js": "/medicare-and-more/static/js/2.dbb04b1f.chunk.js",
+    "static/js/2.dbb04b1f.chunk.js.map": "/medicare-and-more/static/js/2.dbb04b1f.chunk.js.map",
     "index.html": "/medicare-and-more/index.html",
-    "precache-manifest.ca69ee99d6959ea72128d07f3e7a27eb.js": "/medicare-and-more/precache-manifest.ca69ee99d6959ea72128d07f3e7a27eb.js",
+    "precache-manifest.74d2fff00cf6452501aa7b8aa008ec63.js": "/medicare-and-more/precache-manifest.74d2fff00cf6452501aa7b8aa008ec63.js",
     "service-worker.js": "/medicare-and-more/service-worker.js",
     "static/css/2.266e55a5.chunk.css.map": "/medicare-and-more/static/css/2.266e55a5.chunk.css.map",
     "static/css/main.0e0b9a9f.chunk.css.map": "/medicare-and-more/static/css/main.0e0b9a9f.chunk.css.map",
     "static/media/ballerina.webp": "/medicare-and-more/static/media/ballerina.e94d7c5d.webp",
+    "static/media/ballerina_default.jpg": "/medicare-and-more/static/media/ballerina_default.c5932e60.jpg",
     "static/media/ocean.jpg": "/medicare-and-more/static/media/ocean.a270507d.jpg",
     "static/media/portrait.jpg": "/medicare-and-more/static/media/portrait.4f83f9cd.jpg"
   }
