@@ -1,21 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.0e0b9a9f.chunk.css",
-    "main.js": "/static/js/main.37b832ef.chunk.js",
-    "main.js.map": "/static/js/main.37b832ef.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.1f02498e.js",
-    "runtime~main.js.map": "/static/js/runtime~main.1f02498e.js.map",
-    "static/css/2.ca8e03c8.chunk.css": "/static/css/2.ca8e03c8.chunk.css",
-    "static/js/2.5f774128.chunk.js": "/static/js/2.5f774128.chunk.js",
-    "static/js/2.5f774128.chunk.js.map": "/static/js/2.5f774128.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.631c50f8422b55751249c2ec3f262886.js": "/precache-manifest.631c50f8422b55751249c2ec3f262886.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.ca8e03c8.chunk.css.map": "/static/css/2.ca8e03c8.chunk.css.map",
-    "static/css/main.0e0b9a9f.chunk.css.map": "/static/css/main.0e0b9a9f.chunk.css.map",
-    "static/media/asia.jpg": "/static/media/asia.ec8bcab5.jpg",
-    "static/media/asia_hd.webp": "/static/media/asia_hd.cb96b066.webp",
-    "static/media/ocean.jpg": "/static/media/ocean.a270507d.jpg",
-    "static/media/portrait.jpg": "/static/media/portrait.4f83f9cd.jpg"
+    "main.css": "/medicare-and-more/static/css/main.0e0b9a9f.chunk.css",
+    "main.js": "/medicare-and-more/static/js/main.b9e1f183.chunk.js",
+    "main.js.map": "/medicare-and-more/static/js/main.b9e1f183.chunk.js.map",
+    "runtime~main.js": "/medicare-and-more/static/js/runtime~main.e99f5618.js",
+    "runtime~main.js.map": "/medicare-and-more/static/js/runtime~main.e99f5618.js.map",
+    "static/css/2.ca8e03c8.chunk.css": "/medicare-and-more/static/css/2.ca8e03c8.chunk.css",
+    "static/js/2.ddf812c2.chunk.js": "/medicare-and-more/static/js/2.ddf812c2.chunk.js",
+    "static/js/2.ddf812c2.chunk.js.map": "/medicare-and-more/static/js/2.ddf812c2.chunk.js.map",
+    "index.html": "/medicare-and-more/index.html",
+    "precache-manifest.7a2f4d97418d7ab0a954865b7abaf531.js": "/medicare-and-more/precache-manifest.7a2f4d97418d7ab0a954865b7abaf531.js",
+    "service-worker.js": "/medicare-and-more/service-worker.js",
+    "static/css/2.ca8e03c8.chunk.css.map": "/medicare-and-more/static/css/2.ca8e03c8.chunk.css.map",
+    "static/css/main.0e0b9a9f.chunk.css.map": "/medicare-and-more/static/css/main.0e0b9a9f.chunk.css.map",
+    "static/media/asia.jpg": "/medicare-and-more/static/media/asia.ec8bcab5.jpg",
+    "static/media/ocean.jpg": "/medicare-and-more/static/media/ocean.a270507d.jpg",
+    "static/media/portrait.jpg": "/medicare-and-more/static/media/portrait.4f83f9cd.jpg"
   }
 }
